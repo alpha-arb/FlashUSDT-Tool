@@ -50,8 +50,6 @@ These tokens:
 
 > ⚠️ These tokens are **not real** and **hold no actual value**. They are designed for fun, testing, and educational purposes only.
 
----
-
 ## 🛠 Built With
 
 - Python 3.11+
