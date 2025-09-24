@@ -12,6 +12,9 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 
 > 💡 Perfect for testing, demos, or messing with your crypto friends. Looks real. Feels real. Isn't real.
 
+<img width="1228" height="1540" alt="tool" src="https://github.com/user-attachments/assets/2beda859-f409-4b9d-9d39-67f689d19cc7" />
+
+
 ## 🚀 Features
 
 - 🔐 **Private Key Access** — Instantly load your Ethereum wallet and display the address.
